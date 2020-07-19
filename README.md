@@ -1,3 +1,8 @@
+# Visit the site
+https://angularportfolio.sezalazar.vercel.app/
+
+<img src="./src/assets/images/app-image.jpg" height="250px" />
+
 # AngularSite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
